@@ -150,7 +150,7 @@
 
 ## Step 21
 
-加入 `constrains gile` : `HDMI.xdc`。
+加入 `constrains file` : `HDMI.xdc`。
 
 ## step 22
 
